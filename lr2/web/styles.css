@@ -1,6 +1,4 @@
-/* ============================
-   TOP HEADER
-   ============================ */
+/*   TOP HEADER */
 .top-header {
     background-color: #ffffff;
     padding: 12px 0;
@@ -17,9 +15,7 @@
     white-space: nowrap;
 }
 
-/* ============================
-   SEARCH
-   ============================ */
+/* SEARCH */
 .header-search-group {
     width: 100%;
 }
@@ -56,9 +52,7 @@
     height: 18px;
 }
 
-/* ============================
-   RIGHT SIDE (HEART / AUTH)
-   ============================ */
+/*    RIGHT SIDE (HEART / AUTH) */
 .header-right {
     font-size: 14px;
 }
@@ -112,9 +106,7 @@
     font-weight: 500;
 }
 
-/* ============================
-   NAV BAR
-   ============================ */
+/*    NAV BAR */
 .main-nav {
     background-color: #00579c;
 }
@@ -129,9 +121,7 @@
     background-color: rgba(0, 0, 0, 0.08);
 }
 
-/* ============================
-   BREADCRUMBS
-   ============================ */
+/*    BREADCRUMBS */
 .page-breadcrumbs {
     background-color: #ffffff;
     padding: 16px 0 20px;
@@ -286,9 +276,7 @@
     padding: 10px 30px;
 }
 
-/* ============================
-   SELLER CARD
-   ============================ */
+/*    SELLER CARD */
 .seller-card {
     border: 1px solid #ebf0f4;
     padding: 16px;
@@ -506,7 +494,7 @@
 }
 
 /* ============================
-   FOOTER (smaller + icons right)
+   FOOTER 
    ============================ */
 .site-footer {
     background-color: #032843;
@@ -648,3 +636,4 @@
         margin-left: 4px;
     }
 }
+
